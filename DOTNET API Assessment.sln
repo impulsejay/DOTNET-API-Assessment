@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOTNET API Assessment", "DOTNET API Assessment.csproj", "{23237E7A-ADD4-4BB4-B198-D37013703778}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23237E7A-ADD4-4BB4-B198-D37013703778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23237E7A-ADD4-4BB4-B198-D37013703778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23237E7A-ADD4-4BB4-B198-D37013703778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23237E7A-ADD4-4BB4-B198-D37013703778}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DD4FB76-A583-4F4E-8C72-3A4BEA7943F9}
+	EndGlobalSection
+EndGlobal
