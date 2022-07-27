@@ -1,7 +1,7 @@
 #.NET API Assessment
 
 ##Build and run
-1. Navigate to the directory where it contains GovernmentBenefitCalculatorWebApp.sln. Double click to open the solution through Visual Studio.
+1. Navigate to the directory where it contains DOTNET API Assessment.sln. Double click to open the solution through Visual Studio.
 2. Once done, under the build tab, click on build/rebuild solution.
 3. Now you can run the build through IIS Express
 4. The swagger UI will be shown on the browser page.
